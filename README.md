@@ -1,5 +1,11 @@
 # UTS Tech Festival 2023: AI Hackathon
 
+## Date, Time, Location
+
+* Date, Time: Mon 19th Jun 2023, 10:00 am - Tue 20th Jun 2023, 6:00 pm AEST
+* Location:  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
+
+
 ## Background
 
 One of the most common tools environmental labs use to analyse samples is a piece of equipment called a Gas Chromatograph Mass Spectrometer (GC-MS). This equipment can be divided into two sections; the gas chromatograph (GC) and the mass spectrometer (MS). The GC is used to process the sample and deliver it to the MS. The MS is used to detect and measure environmental contaminants in the samples. This project will be focusing on the MS.
