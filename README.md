@@ -54,6 +54,43 @@ Entrance lens offset – This value is used in the calculation of the entrance l
 * Entrance lens - This value is the voltage of the entrance lens calculated using the entrance lens offset value after tuning the MS.
 Finally, the source is maintained at a certain temperature depending on the analysis it performs. Each system will be maintained at a single temperature but there may be a difference in values between systems depending on the test.
 * Temp – temperature of the source in °C of the source.
+  
 
+### Mass Filter Values
+The mass filter consists of four parallel rods as shown in the image below. To the top and bottom rods, a positive DC voltage and an RF voltage are simultaneously applied. To the left and right rods, the same DC and RF voltage are applied but the opposite sign. The voltages applied to these four rods causes ions to spiral as they pass through the mass filter. 
+
+Under given DC and RF voltages only a single mass ion will exhibit a stable spiral trajectory through the rods and reach the detector to be measured. Ions with different masses will exhibit an unstable trajectory and ultimately not reach the detector or be measured.
+
+As part of the tune, the MS determines the “mass scan line” which is the relationship between the DC and RF voltage applied to the rods to detect each mass. The slope and intercept of this mass scan line is reported under “Amu gain” and “Amu offset”.
+* Amu gain – the slope of the mass scan line
+* Amu offset – the intercept of the mass scan line
+In reality, the mass scan line is not perfectly linear. This requires a correction in the middle of the mass can line called “Width219”. For illustration purposes this would be performed at m2 in Figure 5.
+* Width219 – correction applied to mass scan line
+
+
+### Detector Parameters
+The detector of the MS is a high energy conversion dynode (HED) coupled to an electron multiplier (EM). After passing through the mass filter, the ion hits the HED electrons are emitted which are attracted to the more positive voltage of the EM.
+Electrons liberated from the HED cascade through the EM, liberating more electrons as they go. This effectively acts as a ‘gain’ for the signal. The higher the value of the voltage, the more electrons get liberated and the higher the gain.
+EM Volts – This value is the voltage of the EM after tuning the MS.
+
+### Tuning Compound
+At the heart of the MS tune is a tuning compound called PFTBA. This compound is introduced to the MS for the purpose of the tune. Remember how we mentioned that compounds can fragment in the source? Well, PFTBA has three main fragments which we use for our tune which are 69, 219 and 502. 
+  
+All the tuning parameters discussed earlier are determined using the PFTBA fragmentation to maximise the signal of the 69, 219 and 502 masses.
+* 69 m/z – signal of the 69 fragment of PFTBA after tuning
+* 219 m/z – signal of the 219 fragment of PFTBA after tuning
+* 502 m/z – signal of the 502 fragment of PFTBA after tuning
+There are also other smaller fragments we monitor in our tune, these are 70, 220 and 503. 
+* 70 m/z – signal of the 69 fragment of PFTBA after tuning
+* 220 m/z – signal of the 220 fragment of PFTBA after tuning
+* 503 m/z – signal of the 503 fragment of PFTBA after tuning
+
+
+### What we think might help
+Some of the key values we look at to assess the source condition are below.
+* Repeller Voltage – this tends to trend towards higher values with source use.
+* EM Volts – this tends to trend towards higher values with source use. Each system will usually have a different starting voltage for a new source and filaments.
+* 502 m/z to 69 m/z ratio - this tends to trend towards higher values with source use. Each system will usually have a different starting ratio for a new source and filaments.
+You will notice that each MS will have different values for many of the parameters, EM Volts being a good example. Another tip we’d give is that it is sometimes more important to look at the change in value with time as opposed to the actual value.
 
   
