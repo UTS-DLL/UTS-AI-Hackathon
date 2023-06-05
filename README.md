@@ -3,7 +3,7 @@
 ## Date, Time, Location
 
 * <b>Date, Time:</b> Mon 19th Jun 2023, 10:00 am - Tue 20th Jun 2023, 6:00 pm AEST
-* Location:  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
+* <b>Location:<b>  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
 
 
 ## Background
