@@ -41,5 +41,19 @@ Here we will provide additional detail on each of the parameters so you can unde
 ### Generic values
 * Tune Date : this is the date and time when each MS tune was performed.
 * System : We have several MS’s in our laboratory. This is the ID of the MS the tune data is from.
+  
+### Source values
+A diagram of a MS source is below. In the diagram you can see a filament that is being used to emit electrons (e-) to an electron trap electrode. The electron trap electrode is also a filament but is instead being used to collect the electron beam instead of generating it. After the first filament breaks, the roles of the filaments can be swapped, so that the previous electron emitter becomes the collector, and the previous collector becomes the emitter. 
+* Filament – Designates which filament is being used as the electron emitter. When the filament value switches from 1 to 2, that means that the first filament has failed after the last recorded tune for filament 1 and the second filament has now been designated the emitter. The end of the csv indicates that the second filament has also failed after the last recorded tune for filament 2.
+Once the neutral analyte (blue) interacts with an electron, it becomes a positively charged molecular ion (green). These molecular ions (green) can also break apart and form fragment ions (red). Note this for later. The mass analyser is perpendicular to the electron beam, so the ions must be pushed in that direction to be analysed and detected. This is done through a repeller which is held at a positive charge. The positive ions will be repulsed by the positive repeller towards the mass filter.
+* Repeller – The value is the voltage of the repeller after tuning the MS.
+After being repelled towards the mass filter, the ions need to be focused into a narrow beam to be further processed by the MS effectively. This is performed by the ion focus lens which is held at a positive voltage
+* Ion Focus Lens - This value is the voltage of the ion focus lens after tuning the MS.
+The mass filter which will be discussed later gives of fringing fields which can affect the ions in the source. To protect against these fringing fields, the source has an entrance lens which is also held at a positive voltage. There are two components to entrance lens in the tune. The first is the entrance lens offset. This is used to calculate the entrance lens voltage in combination with other variables such that entrance lens voltage = entrance lens offset + other variables.
+Entrance lens offset – This value is used in the calculation of the entrance lens voltage.
+* Entrance lens - This value is the voltage of the entrance lens calculated using the entrance lens offset value after tuning the MS.
+Finally, the source is maintained at a certain temperature depending on the analysis it performs. Each system will be maintained at a single temperature but there may be a difference in values between systems depending on the test.
+* Temp – temperature of the source in °C of the source.
+
 
   
