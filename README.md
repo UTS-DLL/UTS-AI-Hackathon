@@ -58,16 +58,20 @@ Entrance lens offset – This value is used in the calculation of the entrance l
 Finally, the source is maintained at a certain temperature depending on the analysis it performs. Each system will be maintained at a single temperature but there may be a difference in values between systems depending on the test.
 * Temp – temperature of the source in °C of the source.
   
-![alt text](images/MassSpectrometer.png?raw=true)
+  
+![alt text](images/MassSpectometer.png?raw=true)
 
 Figure 2: Diagram of a mass spectrometer source illustrating how it operates. 
 
+  
 ### Mass Filter Values
 The mass filter consists of four parallel rods as shown in the image below. To the top and bottom rods, a positive DC voltage and an RF voltage are simultaneously applied. To the left and right rods, the same DC and RF voltage are applied but the opposite sign. The voltages applied to these four rods causes ions to spiral as they pass through the mass filter. 
 
+  
 ![alt text](images/DC-RF-Voltage.png?raw=true)
 
 Figure 3: Illustration of the DC and RF voltage applied to the four rods of the mass filter. 
+
   
 Under given DC and RF voltages only a single mass ion will exhibit a stable spiral trajectory through the rods and reach the detector to be measured. Ions with different masses will exhibit an unstable trajectory and ultimately not reach the detector or be measured.
 
@@ -81,9 +85,11 @@ As part of the tune, the MS determines the “mass scan line” which is the rel
 In reality, the mass scan line is not perfectly linear. This requires a correction in the middle of the mass can line called “Width219”. For illustration purposes this would be performed at m2 in Figure 5.
 * Width219 – correction applied to mass scan line
 
+  
 ![alt text](images/Mass.png?raw=true)
 
 Figure 5: Illutration of how the mass can line is calculated using the signals at different masses.
+
 
 ### Detector Parameters
 The detector of the MS is a high energy conversion dynode (HED) coupled to an electron multiplier (EM). After passing through the mass filter, the ion hits the HED electrons are emitted which are attracted to the more positive voltage of the EM.
