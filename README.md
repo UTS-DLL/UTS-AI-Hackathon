@@ -20,6 +20,10 @@ The role of the detector is to measure how many ions of each mass pass through t
 ## A look at the problem
   
 As the MS analyses samples, the filaments used to generate the electron beam in the source begin to wear. Eventually the filament breaks, which prevents it from being able to generate an electron beam. When this occurs, the MS is unable to analyse samples. See an example below of a new filament and one that has failed in Figure 1. As there are two filaments, when one fails, the MS can switch to the second before analysing more samples. However, when both filaments have failed, the filaments must be replaced before the MS can operate again.
+
+![alt text](images/Filament-0Cycles.png?raw=true)
+
+Share  
   
 Filament failures are extremely disruptive to the laboratory’s operations. When a filament fails overnight, it can delay up to 12 hours of analysis time for samples. Additionally, when both filaments need to be replaced it takes at least 4 hours to replace them. This leads to delays in reporting results to our clients who are often working to strict deadlines.
   
