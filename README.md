@@ -59,17 +59,20 @@ Finally, the source is maintained at a certain temperature depending on the anal
 * Temp – temperature of the source in °C of the source.
   
 ![alt text](images/MassSpectrometer.png?raw=true)
+
 Figure 2: Diagram of a mass spectrometer source illustrating how it operates. 
 
 ### Mass Filter Values
 The mass filter consists of four parallel rods as shown in the image below. To the top and bottom rods, a positive DC voltage and an RF voltage are simultaneously applied. To the left and right rods, the same DC and RF voltage are applied but the opposite sign. The voltages applied to these four rods causes ions to spiral as they pass through the mass filter. 
 
 ![alt text](images/DC-RF-Voltage.png?raw=true)
+
 Figure 3: Illustration of the DC and RF voltage applied to the four rods of the mass filter. 
   
 Under given DC and RF voltages only a single mass ion will exhibit a stable spiral trajectory through the rods and reach the detector to be measured. Ions with different masses will exhibit an unstable trajectory and ultimately not reach the detector or be measured.
 
-![alt text](images/Two-ion.png?raw=true)
+![alt text](images/Two-ion.jpg?raw=true)
+
 Figure 4: Illustration of two ions travelling through the mass filter. The DC and RF voltages of the four rods are at values that allow the mass of the red ion to pass through to the detector. However, the blue ion which has a different mass has an unstable trajectory and does not reach the detector.
   
 As part of the tune, the MS determines the “mass scan line” which is the relationship between the DC and RF voltage applied to the rods to detect each mass. The slope and intercept of this mass scan line is reported under “Amu gain” and “Amu offset”.
@@ -79,6 +82,7 @@ In reality, the mass scan line is not perfectly linear. This requires a correcti
 * Width219 – correction applied to mass scan line
 
 ![alt text](images/Mass.png?raw=true)
+
 Figure 5: Illutration of how the mass can line is calculated using the signals at different masses.
 
 ### Detector Parameters
