@@ -5,7 +5,7 @@
 ## Date, Time, Location
 
 * <b>Date, Time:</b> Mon 19th Jun 2023, 10:00 am - Tue 20th Jun 2023, 6:00 pm AEST
-* <b>Location:<b>  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
+* <b>Location:</b>  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
 
 
 ## Background
@@ -46,21 +46,21 @@ The ‘good news’ is that the quantity and nature of the samples also affects 
 Here we will provide additional detail on each of the parameters so you can understand their importance to the MS operation.
 
 ### Generic values
-* Tune Date : this is the date and time when each MS tune was performed.
-* System : We have several MS’s in our laboratory. This is the ID of the MS the tune data is from.
+* **Tune Date** : this is the date and time when each MS tune was performed.
+* **System** : We have several MS’s in our laboratory. This is the ID of the MS the tune data is from.
   
 ### Source values
 A diagram of a MS source is below. In the diagram you can see a filament that is being used to emit electrons (e-) to an electron trap electrode. The electron trap electrode is also a filament but is instead being used to collect the electron beam instead of generating it. After the first filament breaks, the roles of the filaments can be swapped, so that the previous electron emitter becomes the collector, and the previous collector becomes the emitter. 
-* Filament – Designates which filament is being used as the electron emitter. When the filament value switches from 1 to 2, that means that the first filament has failed after the last recorded tune for filament 1 and the second filament has now been designated the emitter. The end of the csv indicates that the second filament has also failed after the last recorded tune for filament 2.
+* **Filament** – Designates which filament is being used as the electron emitter. When the filament value switches from 1 to 2, that means that the first filament has failed after the last recorded tune for filament 1 and the second filament has now been designated the emitter. The end of the csv indicates that the second filament has also failed after the last recorded tune for filament 2.
 Once the neutral analyte (blue) interacts with an electron, it becomes a positively charged molecular ion (green). These molecular ions (green) can also break apart and form fragment ions (red). Note this for later. The mass analyser is perpendicular to the electron beam, so the ions must be pushed in that direction to be analysed and detected. This is done through a repeller which is held at a positive charge. The positive ions will be repulsed by the positive repeller towards the mass filter.
-* Repeller – The value is the voltage of the repeller after tuning the MS.
+* **Repeller** – The value is the voltage of the repeller after tuning the MS.
 After being repelled towards the mass filter, the ions need to be focused into a narrow beam to be further processed by the MS effectively. This is performed by the ion focus lens which is held at a positive voltage
-* Ion Focus Lens - This value is the voltage of the ion focus lens after tuning the MS.
+* **Ion Focus Lens** - This value is the voltage of the ion focus lens after tuning the MS.
 The mass filter which will be discussed later gives of fringing fields which can affect the ions in the source. To protect against these fringing fields, the source has an entrance lens which is also held at a positive voltage. There are two components to entrance lens in the tune. The first is the entrance lens offset. This is used to calculate the entrance lens voltage in combination with other variables such that entrance lens voltage = entrance lens offset + other variables.
 Entrance lens offset – This value is used in the calculation of the entrance lens voltage.
-* Entrance lens - This value is the voltage of the entrance lens calculated using the entrance lens offset value after tuning the MS.
+* **Entrance lens** - This value is the voltage of the entrance lens calculated using the entrance lens offset value after tuning the MS.
 Finally, the source is maintained at a certain temperature depending on the analysis it performs. Each system will be maintained at a single temperature but there may be a difference in values between systems depending on the test.
-* Temp – temperature of the source in °C of the source.
+* **Temp** – temperature of the source in °C of the source.
   
   
 ![alt text](images/MassSpectometer.png?raw=true)
@@ -84,10 +84,10 @@ Under given DC and RF voltages only a single mass ion will exhibit a stable spir
 *Figure 4: Illustration of two ions travelling through the mass filter. The DC and RF voltages of the four rods are at values that allow the mass of the red ion to pass through to the detector. However, the blue ion which has a different mass has an unstable trajectory and does not reach the detector.*
   
 As part of the tune, the MS determines the “mass scan line” which is the relationship between the DC and RF voltage applied to the rods to detect each mass. The slope and intercept of this mass scan line is reported under “Amu gain” and “Amu offset”.
-* Amu gain – the slope of the mass scan line
-* Amu offset – the intercept of the mass scan line
+* **Amu gain** – the slope of the mass scan line
+* **Amu offset** – the intercept of the mass scan line
 In reality, the mass scan line is not perfectly linear. This requires a correction in the middle of the mass can line called “Width219”. For illustration purposes this would be performed at m2 in Figure 5.
-* Width219 – correction applied to mass scan line
+* **Width219** – correction applied to mass scan line
 
   
 ![alt text](images/Mass.png?raw=true)
@@ -115,9 +115,9 @@ There are also other smaller fragments we monitor in our tune, these are 70, 220
 
 ### What we think might help
 Some of the key values we look at to assess the source condition are below.
-* Repeller Voltage – this tends to trend towards higher values with source use.
-* EM Volts – this tends to trend towards higher values with source use. Each system will usually have a different starting voltage for a new source and filaments.
-* 502 m/z to 69 m/z ratio - this tends to trend towards higher values with source use. Each system will usually have a different starting ratio for a new source and filaments.
+* **Repeller Voltage** – this tends to trend towards higher values with source use.
+* **EM Volts** – this tends to trend towards higher values with source use. Each system will usually have a different starting voltage for a new source and filaments.
+* **502 m/z to 69 m/z ratio** - this tends to trend towards higher values with source use. Each system will usually have a different starting ratio for a new source and filaments.
 You will notice that each MS will have different values for many of the parameters, EM Volts being a good example. Another tip we’d give is that it is sometimes more important to look at the change in value with time as opposed to the actual value.
 
   
