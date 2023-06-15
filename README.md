@@ -1,3 +1,5 @@
+<img src="images/AIHackathonBanner.jpeg">
+
 # UTS Tech Festival 2023: AI Hackathon
 
 ## Date, Time, Location
