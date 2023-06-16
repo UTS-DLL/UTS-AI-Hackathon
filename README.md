@@ -7,6 +7,29 @@
 * <b>Date, Time:</b> Mon 19th Jun 2023, 10:00 am - Tue 20th Jun 2023, 6:00 pm AEST
 * <b>Location:</b>  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
 
+## Schedule
+
+**DAY-1: June 19, 2023**
+* 10:00 am : Openning
+* 10:15 am : Information Session, introduction to the challenge
+* 11:00 am : Hackathon start!
+* 12:30 pm : Lunch
+* 04:00 pm : Afternoon tea
+* 05.30 pm : Day-1 Concludes, teams to continue hacking
+
+**DAY-2: June 20, 2023**
+* 10:00 am : Teams to continue hacking!
+* 12:30 am : Lunch
+* 01:00 pm : Teams to start finalizing their submission
+* 02:00 pm : Test dataset released for testing solution and preparing submission
+* 02:30 pm : Final Submission portal openned
+* 03:00 pm : Submission portal closed
+* 03:10 pm : Evaluation starts
+* 03:30 pm : Afternoon tea
+* 04:00 pm : Leader board released, Top-5 entries selected for final pitch
+* 04:15 pm : Pitch begins (5mins for each selected teams)
+* 05:00 pm : Pitch presentation conclude
+* 05:30 pm : Hackathon winners announced! 
 
 ## Background
 
