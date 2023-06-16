@@ -12,7 +12,9 @@
 **DAY-1: June 19, 2023**
 * 10:00 am : Openning
 * 10:15 am : Information Session, introduction to the challenge
-* 11:00 am : Hackathon start!
+* 11:00 am : Train and Validation dataset released
+* 11:05 am : Hackathon start!
+* 11:30 am : Organizing team available for Q&A and assistance to the participanting teams
 * 12:30 pm : Lunch
 * 04:00 pm : Afternoon tea
 * 05.30 pm : Day-1 Concludes, teams to continue hacking
