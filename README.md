@@ -10,7 +10,7 @@
 ## Schedule
 
 **DAY-1: June 19, 2023**
-* 10:00 am : Openning
+* 10:00 am : Opening
 * 10:15 am : Information Session, introduction to the challenge
 * 11:00 am : Train and Validation dataset released
 * 11:05 am : Hackathon start!
