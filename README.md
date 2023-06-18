@@ -23,8 +23,7 @@
 * 10:00 am : Teams to continue hacking!
 * 12:30 am : Lunch
 * 01:00 pm : Teams to start finalizing their submission
-* 02:00 pm : Test dataset released for testing solution and preparing submission
-* 02:30 pm : Final Submission portal openned
+* 02:00 pm : Test dataset released for testing solution and preparing submission, Final Submission portal openned 
 * 03:00 pm : Submission portal closed
 * 03:10 pm : Evaluation starts
 * 03:30 pm : Afternoon tea
