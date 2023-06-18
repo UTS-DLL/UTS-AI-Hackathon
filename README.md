@@ -45,7 +45,7 @@ Team registration is essential. Please use the link to the Google Form below to 
 
 Click the button below to access the AU Hackathon LeaderBoard:
 
-[LeaderBoard](https://lookerstudio.google.com/s/oeXtl4-OMxg)
+[<img src="images/LeaderBoard.webp">](https://lookerstudio.google.com/s/oeXtl4-OMxg)
 
 ## Submission 
 
