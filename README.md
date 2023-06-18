@@ -41,6 +41,15 @@ Team registration is essential. Please use the link to the Google Form below to 
 [<img src="images/ButtonImg.png" width="250"/>](https://forms.gle/FJGDngg4twy2nmQPA)
 
 
+## LeaderBoard
+
+Click the button below to access the AU Hackathon LeaderBoard:
+
+## Submission 
+
+Click the button below to make submission (Will be available on Day-2)
+
+
 ## Background
 
 One of the most common tools environmental labs use to analyse samples is a piece of equipment called a Gas Chromatograph Mass Spectrometer (GC-MS). This equipment can be divided into two sections; the gas chromatograph (GC) and the mass spectrometer (MS). The GC is used to process the sample and deliver it to the MS. The MS is used to detect and measure environmental contaminants in the samples. This project will be focusing on the MS.
