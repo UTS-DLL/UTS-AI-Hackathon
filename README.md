@@ -198,13 +198,13 @@ A custom metric will be used for evaluation of the submissions. Customized **Tim
 ## Submission Process
 
 Submission link will be available 1 hour prior to the end of the Hackathon along with the test dataset. 
-Participants need to run their solution on the provided test dataset and produce a test.csv for submission via Google Form. The entries will be evaluation on real-time and the performance will be shared via email and will be available on the Leader-Board.
+Participants need to run their solution on the provided test dataset and produce a test.csv for submission via Google Form. The entries will be evaluated on real-time and the performance will be shared via email and will be available on the Leader-Board.
 
 **List of items required for submission:**
 * test.csv
 * Code file(s)
-* Instruction steps to reproduce results (including any pre-processing steps used. (e.g. Readme file)
-* Trained  model file (if any)
+* Instruction steps to reproduce results (including any pre-processing steps used, e.g. Readme file)
+* Trained model file (if any)
 
 
 
