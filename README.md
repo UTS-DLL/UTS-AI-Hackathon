@@ -147,12 +147,12 @@ You will notice that each MS will have different values for many of the paramete
 
 ## Evaluation Metrics
 
-A custom metric will be used for evaluation of the submissions. Customized Time Weighted Precision has been designed to score the submissions, with following characteristics:
+A custom metric will be used for evaluation of the submissions. Customized **Time Weighted F1 score** has been designed to score the submissions, with following characteristics:
 
-* **Early Prediction Penalty**: Penalties are applied when the filament failure is predicted much earlier than actual failure.
-* **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is prediected after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay.
+* **Early Prediction Penalty**: Penalties are applied when the filament failure is predicted much earlier than actual failure, to minimize the cost of replacing the filament too early, and optimize it use.
+* **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is prediected after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay. This is required to protect the system from additional damage or complete failure.
 
-## Submission 
+## Submission Process
 
 Submission link will be available 1 hours prior to the end of the Hackathon along with the test dataset. 
 Participants need to run their solution on the provided test dataset and produce a test.csv for submission via Google Form. The entries will be evaluation on real-time and the performance will be shared via email and will be available on the Leader-Board.
