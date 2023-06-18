@@ -154,9 +154,9 @@ A custom metric will be used for evaluation of the submissions. Customized **Tim
 
 **Example Cases for illustration:**
 
-<img src="images/GTImage.jpg" width="430">
-<img src="images/Case1-EarlyPrediction.jpg" width="430">
-<img src="images/Case2-LatePrediction.jpg" width="430">
+<img src="images/GTImage.jpg" >
+<img src="images/Case1-EarlyPrediction.jpg" >
+<img src="images/Case2-LatePrediction.jpg" >
 
 
 
