@@ -51,6 +51,7 @@ Click the button below to access the AI Hackathon LeaderBoard:
 
 Click the button below to make submission (Will be available on Day-2)
 
+[<img src="images/submitbutton.png" width="200">](#)
 
 ## Background
 
