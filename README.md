@@ -141,9 +141,32 @@ There are also other smaller fragments we monitor in our tune, these are 70, 220
 
 ### What we think might help
 Some of the key values we look at to assess the source condition are below.
-* **Repeller Voltage** – this tends to trend towards higher values with source use.
 * **EM Volts** – this tends to trend towards higher values with source use. Each system will usually have a different starting voltage for a new source and filaments.
 * **502 m/z to 69 m/z ratio** - this tends to trend towards higher values with source use. Each system will usually have a different starting ratio for a new source and filaments.
 You will notice that each MS will have different values for many of the parameters, EM Volts being a good example. Another tip we’d give is that it is sometimes more important to look at the change in value with time as opposed to the actual value.
 
-  
+## Evaluation Metrics
+
+A custom metric will be used for evaluation of the submissions. Customized Time Weighted Precision has been designed to score the submissions, with following characteristics:
+
+* **Early Prediction Penalty**: Penalties are applied when the filament failure is predicted much earlier than actual failure.
+* **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is prediected after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay.
+
+## Submission 
+
+Submission link will be available 1 hours prior to the end of the Hackathon along with the test dataset. 
+Participants need to run their solution on the provided test dataset and produce a test.csv for submission via Google Form. The entries will be evaluation on real-time and the performance will be shared via email and will be available on the Leader-Board.
+
+**List of items required for submission:**
+* test.csv
+* Code file(s)
+* Instruction steps to reproduce results (including any pre-processing steps used. (e.g. Readme file)
+* Trained  model file (if any)
+
+
+## Finalize Hackathon Winner
+* Top 5 entries on the Leader-board will be invited pitch their solution (ppt, live demos of code etc. can be used) : 5 mins pitch
+* Selected entries to highlight the following:
+  - Performance
+  - AI/ML technique used and why
+  - Identified attributes which are more relevant to accurately predict the filament failure.
