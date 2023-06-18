@@ -36,7 +36,7 @@
 
 Team registration is essential. Please use the link to the Google Form below to register your team.
 
-**Maximun members in team :** 3
+**Maximum members in a team :** 3
 
 [<img src="images/RegisterNow.jpg" width="350"/>](https://forms.gle/FJGDngg4twy2nmQPA)
 
