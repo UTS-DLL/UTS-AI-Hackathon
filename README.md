@@ -152,6 +152,14 @@ A custom metric will be used for evaluation of the submissions. Customized **Tim
 * **Early Prediction Penalty**: Penalties are applied when the filament failure is predicted much earlier than actual failure, to minimize the cost of replacing the filament too early, and optimize it use.
 * **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is prediected after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay. This is required to protect the system from additional damage or complete failure.
 
+**Example Cases for illustration:**
+
+<img src="images/GTImage.jpg" width="430">
+<img src="images/Case1-EarlyPrediction.jpg" width="430">
+<img src="images/Case2-LatePrediction.jpg" width="430">
+
+
+
 ## Submission Process
 
 Submission link will be available 1 hours prior to the end of the Hackathon along with the test dataset. 
