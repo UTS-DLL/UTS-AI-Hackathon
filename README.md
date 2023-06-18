@@ -164,12 +164,13 @@ Some of the key values we look at to assess the source condition are below.
 * **502 m/z to 69 m/z ratio** - this tends to trend towards higher values with source use. Each system will usually have a different starting ratio for a new source and filaments.
 You will notice that each MS will have different values for many of the parameters, EM Volts being a good example. Another tip we’d give is that it is sometimes more important to look at the change in value with time as opposed to the actual value.
 
+
 ## Evaluation Metrics
 
 A custom metric will be used for evaluation of the submissions. Customized **Time Weighted F1 score** has been designed to score the submissions, with following characteristics:
 
 * **Early Prediction Penalty**: Penalties are applied when the filament failure is predicted much earlier than actual failure, to minimize the cost of replacing the filament too early, and optimize it use.
-* **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is prediected after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay. This is required to protect the system from additional damage or complete failure.
+* **Late Prediction Penalty**: Heavy Penalties are applied when the filament failure is predicted after the actual failure, and increases exponentially based on the amount (tuning iteration) of delay. This is required to protect the system from additional damage or complete failure.
 
 **Example Cases for illustration:**
 
@@ -189,6 +190,7 @@ Participants need to run their solution on the provided test dataset and produce
 * Code file(s)
 * Instruction steps to reproduce results (including any pre-processing steps used. (e.g. Readme file)
 * Trained  model file (if any)
+
 
 
 ## Finalize Hackathon Winner
