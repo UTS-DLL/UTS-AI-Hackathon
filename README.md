@@ -40,7 +40,6 @@ Team registration is essential. Please use the link to the Google Form below to 
 
 [<img src="images/ButtonImg.png" width="250"/>](https://forms.gle/FJGDngg4twy2nmQPA)
 
-['Click Here to Register](https://forms.gle/FJGDngg4twy2nmQPA) 
 
 ## Background
 
