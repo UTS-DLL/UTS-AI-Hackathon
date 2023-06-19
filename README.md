@@ -59,7 +59,7 @@ Click the button below to make submission (Will be available on Day-2)
 1. Any programming language of your choice (e.g. Python, Java, etc.)
 2. Suggestation: Python on IPython Notebooks, Scripts
 
-   
+[<img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg#/media/File:Python_logo_and_wordmark.svg" width="250">]
 
 ## Background
 
