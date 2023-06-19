@@ -54,7 +54,7 @@ Click the button below to make submission (Will be available on Day-2)
 [<img src="images/submitbutton.png" width="200">](#)
 
 
-##Technology Stack you can use
+## Technology Stack you can use
 
 1. Any programming language of your choice (e.g. Python, Java, etc.)
 2. Suggestation: Python on IPython Notebooks, Scripts
