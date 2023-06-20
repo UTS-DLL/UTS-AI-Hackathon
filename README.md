@@ -217,9 +217,12 @@ Participants need to run their solution on the provided test dataset and produce
 **Submission Example:**
 
 **Sample Test File**
-<img src="images/ExampleTestData.jpg" width="430">
+
+<img src="images/ExampleTestData.jpg" width="600">
+
 
 **Sample Result file format for submission**
+
 <img src="images/SampleTestFile.jpg" width="250">
 
 
