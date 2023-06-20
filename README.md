@@ -32,7 +32,7 @@
 * 05:00 pm : Pitch presentation conclude
 * 05:30 pm : Hackathon winners announced! 
 
-## Team Registration
+## Team Registration (Closed)
 
 Team registration is essential. Please use the link to the Google Form below to register your team.
 
