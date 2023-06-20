@@ -38,7 +38,7 @@ Team registration is essential. Please use the link to the Google Form below to 
 
 **Maximum members in a team :** 3
 
-[<img src="images/RegisterNow.jpg" width="350"/>](https://forms.gle/FJGDngg4twy2nmQPA)
+[<img src="images/RegisterNow.jpg" width="350"/>](#)
 
 
 ## LeaderBoard
@@ -51,7 +51,7 @@ Click the button below to access the AI Hackathon LeaderBoard:
 
 Click the button below to make submission (Will be available on Day-2)
 
-[<img src="images/submitbutton.png" width="200">](https://forms.gle/LnRuebtJgQqziLQQ6)
+[<img src="images/submitbutton.png" width="200">](#)
 
 
 ## Technology Stack you can use
