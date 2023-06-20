@@ -214,6 +214,10 @@ Participants need to run their solution on the provided test dataset and produce
 * Trained model file (if any)
 
 
+**Submission Example:**
+
+
+
 
 ## Finalize Hackathon Winner
 * Top 5 entries on the Leader-board will be invited pitch their solution (ppt, live demos of code etc. can be used) : 5 mins pitch
