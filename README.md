@@ -228,7 +228,8 @@ Participants need to run their solution on the provided test dataset and produce
 
 **Submission Team name format**
 
-**<Registered Team Name>_<Attempt#>_<TestFilename_Provided>.csv**
+
+<Registered Team Name>_<Attempt#>_<TestFilename_Provided>.csv**
 
 ## Finalize Hackathon Winner
 * Top 5 entries on the Leader-board will be invited pitch their solution (ppt, live demos of code etc. can be used) : 5 mins pitch
