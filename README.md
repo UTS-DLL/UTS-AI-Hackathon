@@ -69,6 +69,24 @@ Click the button below to make submission (Will be available on Day-2)
 
 [<img src="images/EventPhotos/Team-Photo-Day2.JPG" width="700">](#)
 
+**The Perfect Pitch by participating teams!**
+
+[<img src="images/EventPhotos/Winner-1st-Pitch.JPG" width="700">](#)
+<img src="images/EventPhotos/Winner-12nd-Pitch.JPG" width="700">](#)
+<img src="images/EventPhotos/Winner-3rd-Pitch.JPG" width="700">](#)
+
+**Judging**
+
+<img src="images/EventPhotos/Judging-1.JPG" width="700">](#)
+<img src="images/EventPhotos/Judging-2.JPG" width="700">](#)
+<img src="images/EventPhotos/Judging-3.JPG" width="700">](#)
+
+**Winners**
+
+<img src="images/EventPhotos/Winner-1st.JPG" width="700">](#)
+<img src="images/EventPhotos/Winner-2nd.JPG" width="700">](#)
+<img src="images/EventPhotos/Winner-3rd.JPG" width="700">](#)
+
 
 ## Technology Stack you can use
 
