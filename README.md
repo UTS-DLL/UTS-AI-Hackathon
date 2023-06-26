@@ -61,6 +61,15 @@ Click the button below to make submission (Will be available on Day-2)
 * 3rd : Team ThreeHackerteers
 
 
+## Photo Gallery
+
+**The AI Hackathion Team**
+
+[<img src="images/EventPhotos/SGS-Team.jpg" width="200">]()
+
+[<img src="images/EventPhotos/Team-Photo-Day2.jpg" width="200">]()
+
+
 ## Technology Stack you can use
 
 1. Any programming language of your choice (e.g. Python, Java, etc.)
