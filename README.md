@@ -4,6 +4,7 @@
 
 ## Date, Time, Location
 
+**The UTS SGS AI Hackathon Concluded successfully!**
 * <b>Date, Time:</b> Mon 19th Jun 2023, 10:00 am - Tue 20th Jun 2023, 6:00 pm AEST
 * <b>Location:</b>  UTS Building 7 (Vicki Sara Building), Level 3, Room 10B and 10G, 67 Thomas St, Ultimo NSW 2007, Australia
 
@@ -52,6 +53,12 @@ Click the button below to access the AI Hackathon LeaderBoard:
 Click the button below to make submission (Will be available on Day-2)
 
 [<img src="images/submitbutton.png" width="200">](#)
+
+## Hackathon Winners
+
+* 1st : Team Ramanujan
+* 2nd : Team Team Happy AI ML
+* 3rd : Team ThreeHackerteers
 
 
 ## Technology Stack you can use
