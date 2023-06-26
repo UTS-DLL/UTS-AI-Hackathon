@@ -63,11 +63,11 @@ Click the button below to make submission (Will be available on Day-2)
 
 ## Photo Gallery
 
-**The AI Hackathion Team**
+**The AI Hackathon Team**
 
-[<img src="images/EventPhotos/SGS-Team.JPG" width="600">](#)
+[<img src="images/EventPhotos/SGS-Team.JPG" width="700">](#)
 
-[<img src="images/EventPhotos/Team-Photo-Day2.JPG" width="600">](#)
+[<img src="images/EventPhotos/Team-Photo-Day2.JPG" width="700">](#)
 
 
 ## Technology Stack you can use
